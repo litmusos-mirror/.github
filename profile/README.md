@@ -1,4 +1,4 @@
-# This is a mirror of https://github.com/project-litmus
+# This is a mirror of https://github.com/litmusos
 
 ###### 请不要对 README.md 使用浏览器翻译，您可以 [点击这里](https://github.com/project-litmus/.github/blob/main/profile/README-ZH-CN.md) 查看中文版本  
   
