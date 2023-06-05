@@ -13,4 +13,4 @@
 ### Litmus OS is an Android project.
 ###### Based on [pixelexperience](https://github.com/pixelexperience) 
 # Our Talk Group</H2>
-###### Nothing.
+###### [Telegram.](https://t.me/litmusosalioth)
